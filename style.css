@@ -1,13 +1,25 @@
 body{
-    background-color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    letter-spacing: 2px;
+
 }
+
+main{
+    text-align: left;
+    }
 h1{
-    color: brown;
-    text-align: center;
+    color: blue;
+    text-align: left;
+    text-decoration: underline;
+    letter-spacing: 2px;
 }
-p{
-    color:black;
+#navbar{
+    color: chartreuse;
+    font-size: x-large;
 }
-p{
-    text-align: center;
+code{
+    color: maroon;
+    font-size: xx-large;
+    background-color: lightskyblue;
 }
